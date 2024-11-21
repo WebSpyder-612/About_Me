@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @WebSpyder-612
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript
-- 😄 Pronouns: She
+- 👀 Interest: Coding and Ethical Hacking
+- 🌱 Currently studying BSc (Hons) Information Technology (Computer Networking and Security)
+- 🌱 Currently attending Sunway University
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Cat Lover
 
 <!---
